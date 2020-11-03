@@ -8,7 +8,7 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Institution for Science"
+- name: Carnegie Institution for Science
   url: ""
 
 

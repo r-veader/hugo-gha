@@ -1,4 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Wowchemy Academic with Git Hub Actions</title><link>https://r-veader.github.io/hugo-gha/project/</link><atom:link href="https://r-veader.github.io/hugo-gha/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://r-veader.github.io/hugo-gha/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>https://r-veader.github.io/hugo-gha/project/</link></image><item><title>Hugo Automation</title><link>https://r-veader.github.io/hugo-gha/project/hugo-automation/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://r-veader.github.io/hugo-gha/project/hugo-automation/</guid><description>&lt;h1 id="implementation">Implementation&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Wowchemy Academic with Git Hub Actions</title><link>https://r-veader.github.io/hugo-gha/project/</link><atom:link href="https://r-veader.github.io/hugo-gha/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate><image><url>https://r-veader.github.io/hugo-gha/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Projects</title><link>https://r-veader.github.io/hugo-gha/project/</link></image><item><title>Demo Second Project</title><link>https://r-veader.github.io/hugo-gha/project/demo-project/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://r-veader.github.io/hugo-gha/project/demo-project/</guid><description>&lt;h1 id="implementation">Implementation&lt;/h1>
+&lt;ul>
+&lt;li>
+&lt;p>Pick your template. We used the Academic Resume template &lt;a href="https://github.com/wowchemy/starter-academic" target="_blank" rel="noopener">https://github.com/wowchemy/starter-academic&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Fork it into your own Git Hub account.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>In your new repository, efit the file hugo-gha/config/_default/config.toml to set your new baseurl to be your Github Pages url. Ours was:&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>baseurl = &lt;a href="https://r-veader.github.io/hugo-gha">https://r-veader.github.io/hugo-gha&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Follow the directions in the Github Actions for Hugo repo&amp;rsquo;s README at &lt;a href="https://github.com/peaceiris/actions-hugo" target="_blank" rel="noopener">https://github.com/peaceiris/actions-hugo&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Make sure to use Hugo Extended&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>This will be primarily copying and pasting the provided lines into a YAML file in the .github folder&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Make your changes to the markdown files in your repo that defines your webpages and widgets.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://wowchemy.com/docs/get-started/" target="_blank" rel="noopener">https://wowchemy.com/docs/get-started/&lt;/a> defines where in the repo to make changes.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>After each commit, the Github Action that was setup will instantiate a Docker image with Hugo on Github Actions, build your site, and then copy it to the gh_pages branch that GitHub Pages uses to deliver your site!&lt;/p>
+&lt;/li>
+&lt;/ul></description></item><item><title>Hugo Automation</title><link>https://r-veader.github.io/hugo-gha/project/hugo-automation/</link><pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate><guid>https://r-veader.github.io/hugo-gha/project/hugo-automation/</guid><description>&lt;h1 id="implementation">Implementation&lt;/h1>
 &lt;ul>
 &lt;li>
 &lt;p>Pick your template. We used the Academic Resume template &lt;a href="https://github.com/wowchemy/starter-academic" target="_blank" rel="noopener">https://github.com/wowchemy/starter-academic&lt;/a>&lt;/p>

@@ -1,0 +1,12 @@
++++
+client_name = ""
+date = "2016-04-27"
+image = ""
+image_preview = ""
+summary = "Using Github Actions for Hugo to Automate deployment of a Wowchemy Academic template site."
+tags = []
+title = "Hugo Automation"
+external_link = ""
+
++++
+

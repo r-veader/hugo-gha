@@ -13,10 +13,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: github
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://r-veader.github.com/hugo-gha
 url_code: ""
 url_pdf: ""
 url_slides: ""

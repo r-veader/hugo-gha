@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rick Veader
+title: Fred Tan
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Institution for Science"
+- name: Carnegie Institution for Science
   url: ""
 
 
